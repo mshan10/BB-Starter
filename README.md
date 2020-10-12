@@ -4,14 +4,24 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Setup
 #### Terminal 
+
 ###### Windows Users
-Windows uses a DOS based terminal with the command prompt in contrast to a UNIX based system present in Mac Linux devices. UNIX is a much more standard and intuitive command line interface to use so we will need to download a UNIX based command line. Some options are [Ubuntu] which is installed on Windows Subsystem for Linux or [Git](https://git-scm.com/downloads)
+Windows uses a DOS based terminal with the command prompt in contrast to a UNIX based system present in Mac Linux devices. UNIX is a much more standard and intuitive command line interface to use so we will need to download a UNIX based command line. Some options are [Ubuntu](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview) which is installed on Windows Subsystem for Linux or [Git](https://git-scm.com/downloads)
 
 ###### Mac Users
 Use default terminal which is Unix based
 
+###### Basic Commands
+`ls` - lists the files in your current directory  
+`ls -l` - lists the files in your current directory in detailed view
+`ls -a` - lists the files in your current directory including hidden files
+`cd {foldername}` - change directory to specified path of folder  
+`mkdir {foldername}` - create folder at current location with specified file name  
+`pwd` - tells you where you currently are  
+
+
 #### Github 
-Create a Github account at [https://github.com/](https://github.com/). 
+Create a Github account at [https://github.com/](https://github.com/). Create
 
 
 ## Languages
