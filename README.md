@@ -13,8 +13,8 @@ Use default terminal which is Unix based
 
 ###### Basic Commands
 `ls` - lists the files in your current directory  
-`ls -l` - lists the files in your current directory in detailed view
-`ls -a` - lists the files in your current directory including hidden files
+`ls -l` - lists the files in your current directory in detailed view  
+`ls -a` - lists the files in your current directory including hidden files  
 `cd {foldername}` - change directory to specified path of folder  
 `mkdir {foldername}` - create folder at current location with specified file name  
 `pwd` - tells you where you currently are  
