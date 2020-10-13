@@ -1,6 +1,20 @@
-# Foobar
+# Project
 
-Foobar is a Python library for dealing with word pluralization.
+Initial setup for coding environment
+
+## Possible Projects
+#### Games
+Snake, Crossword, Flappy Bird, Space Invaders, etc.
+
+#### Website
+ToDo app, 
+
+#### Web Scrapers
+Extract text, data, or other information from websites 
+
+#### APIs
+Spotify, Twitter, Giphy, etc.
+
 
 ## Setup
 #### Terminal 
@@ -23,6 +37,14 @@ Use default terminal which is Unix based
 #### Github 
 Create a Github account at [https://github.com/](https://github.com/). Create
 
+## IDE (Integrated Developing Environment)
+IDE is basically your code editing environment. You can edit on the command line with vim/nano or on a separate environment like VSCode.  
+
+[vim](https://www.vim.org/) (Recommended)  
+[VScode](https://code.visualstudio.com/) (Recommended)  
+[Atom](https://atom.io/)  
+[SublimeText](https://www.sublimetext.com/)  
+[Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ## Languages
 #### Python Installation
