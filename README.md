@@ -3,29 +3,29 @@
 Initial setup for coding environment
 
 ## Possible Projects
-#### Games
+**Games**  
 Snake, Crossword, Flappy Bird, Space Invaders, etc.
 
-#### Website
-ToDo app, 
+**Website**  
+ToDo app, Personal Website, etc.
 
-#### Web Scrapers
+**Web Scrapers** 
 Extract text, data, or other information from websites 
 
-#### APIs
+**APIs**  
 Spotify, Twitter, Giphy, etc.
 
 
 ## Setup
 #### Terminal 
 
-###### Windows Users
+**Windows Users**
 Windows uses a DOS based terminal with the command prompt in contrast to a UNIX based system present in Mac Linux devices. UNIX is a much more standard and intuitive command line interface to use so we will need to download a UNIX based command line. Some options are [Ubuntu](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview) which is installed on Windows Subsystem for Linux or [Git](https://git-scm.com/downloads)
 
-###### Mac Users
+**Mac Users**
 Use default terminal which is Unix based
 
-###### Basic Commands
+**Basic Commands**
 `ls` - lists the files in your current directory  
 `ls -l` - lists the files in your current directory in detailed view  
 `ls -a` - lists the files in your current directory including hidden files  
@@ -37,7 +37,7 @@ Use default terminal which is Unix based
 #### Github 
 Create a Github account at [https://github.com/](https://github.com/). Create
 
-## IDE (Integrated Developing Environment)
+#### IDE (Integrated Developing Environment)
 IDE is basically your code editing environment. You can edit on the command line with vim/nano or on a separate environment like VSCode.  
 
 [vim](https://www.vim.org/) (Recommended)  
