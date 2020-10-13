@@ -1,19 +1,6 @@
 # Project
 
-Initial setup for coding environment
-
-## Possible Projects
-**Games**  
-Snake, Crossword, Flappy Bird, Space Invaders, etc.
-
-**Website**  
-ToDo app, Personal Website, etc.
-
-**Web Scrapers**  
-Extract text, data, or other information from websites 
-
-**APIs**  
-Spotify, Twitter, Giphy, etc.
+Personal Website
 
 
 ## Setup
